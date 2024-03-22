@@ -58,7 +58,7 @@ I train my network on the [Chest X-Ray Images (Pneumonia)](https://www.kaggle.co
 ### Getting Started
 
 ```bash
-git https://github.com/mxmm2123/SRGAN-for-medical-image-enhance.git
+git clone https://github.com/mxmm2123/SRGAN-for-medical-image-enhance.git
 ```
 Download the [dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia). The dataset contains the 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal).
 
